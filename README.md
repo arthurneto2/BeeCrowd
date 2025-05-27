@@ -4,8 +4,6 @@
 [![Sistemas de Informação](https://img.shields.io/badge/Curso-Sistemas_de_Informação-2C8EBB?style=for-the-badge)](https://www.ufv.br)
 [![Beecrowd](https://img.shields.io/badge/Plataforma-Beecrowd-FF6600?style=for-the-badge)](https://www.beecrowd.com.br)
 
-Repositório das minhas soluções para os desafios da plataforma Beecrowd, desenvolvidos como parte da disciplina **Desafios de Programação** do curso de **Sistemas de Informação** na **Universidade Federal de Viçosa (UFV)**.
-
 ## 📚 Sobre o Projeto
 
 Este repositório contém:
